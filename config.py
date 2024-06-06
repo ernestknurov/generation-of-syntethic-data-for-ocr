@@ -1,0 +1,7 @@
+EMNIST_TRAIN_PATH = "data/emnist/emnist-balanced-train.csv"
+EMNIST_TEST_PATH = "data/emnist/emnist-balanced-test.csv"
+EMNIST_MAPPING_PATH = "data/emnist/emnist-balanced-mapping.txt"
+FONTS_DATASET_PATH = "data/fonts/dataset.csv"
+FONTS_MAPPING_PATH = "data/fonts/mapping.txt"
+GAN_DATASET_PATH = "data/GAN/dataset.csv"
+GAN_MAPPING_PATH = "data/GAN/mapping.txt"

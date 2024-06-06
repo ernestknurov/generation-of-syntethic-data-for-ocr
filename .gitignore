@@ -1,0 +1,7 @@
+__pycache__
+.idea
+.vscode
+.lightning_studio
+data
+runs
+generated_images
